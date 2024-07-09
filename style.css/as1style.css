@@ -1,0 +1,85 @@
+/* header styles */
+
+.banner{
+    justify-content: center;
+    align-items: center;
+    width: 80%;
+    margin: 0 auto;
+}
+
+.header{
+    background-image: url(../B10A1-Challenge-Begins/assets/Hero-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.contact-me{
+    border-radius: 8px;
+    border: none;
+    color: white;
+    background-color: black;
+    padding: 15px 15px;
+    font-size: medium;
+    font-weight: 500;
+}
+.dream{
+    text-align: center;
+}
+.header-img{
+    align-items: center;
+    justify-content: center;
+}
+.change-world, .help-people, .change-world-end{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 20px 40px;
+    margin-bottom: 20px;
+    background-color: beige;
+}
+.why-web-dev{
+    width: 85%;
+    margin: 150px auto;
+    background-color: bisque;
+}
+.center{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+.learn{
+    padding: 15px 15px;
+    font-size: medium;
+    background-color: white;
+    color: black;
+}
+.para1{
+    max-width: 70%;
+}
+.why-web-dev2{
+    padding: 50px 40px;
+}
+/* .change-world{
+    background-color: bisque;
+}
+.help-people{
+    background-color: blanchedalmond;
+}
+.change-world-end{
+    background-color: burlywood;
+} */
+
+.skills{
+    display: flex;
+    padding: 20px 20px;
+    border-right: 20px;
+}
+.skills-main{
+    width: 85%;
+    margin: 150px auto;
+    background-color: antiquewhite;
+
+}
+.a,.b,.c{
+    background-color: rebeccapurple;
+    margin-right: 20px;
+    padding: 20px 20px;
+}
