@@ -83,3 +83,15 @@
     margin-right: 20px;
     padding: 20px 20px;
 }
+.support{
+    background-image: url(../B10A1-Challenge-Begins/assets/handshake.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+input{
+    display: inline;
+}
+.support2{
+    padding: 20px 100px 70px;
+}
